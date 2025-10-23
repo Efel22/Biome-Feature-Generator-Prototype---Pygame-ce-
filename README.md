@@ -10,10 +10,17 @@ A procedural biome and feature generator built with Pygame CE. Includes music, a
 - 🌍 Chunk-based world navigation  
 - 🎞️ Animated tiles for dynamic visuals  
 - 🚧 World border to restrict player movement  
-- 🧠 Multiple generation algorithms for terrain patterns:
-  - Paths from point X to Y  
-  - Patches of terrain/features  
-  - Custom biome shapes
+- 🧠 Advanced world generation algorithms, including:
+  - **Chance-based placement**
+  - **Random position attempts**
+  - **Spread ring and ring-at-location generation**
+  - **Directional wall generation with decay**
+  - **Cellular automata simulation**
+  - **Curved path generation from point X to Y**
+  - **Tile replacement with probability**
+  - **Perlin noise-based terrain shaping**
+  - **Conditional tile placement based on comparison arrays**
+
 
 ## Requirements
 
