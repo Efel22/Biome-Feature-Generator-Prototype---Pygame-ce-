@@ -1,0 +1,10 @@
+{
+    "index": [
+        0,
+        3
+    ],
+    "levelName": "",
+    "chunkType": "generic",
+    "biome": "aspen_forest",
+    "hasGenerated": true
+}
