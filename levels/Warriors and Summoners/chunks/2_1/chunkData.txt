@@ -1,0 +1,10 @@
+{
+    "index": [
+        2,
+        1
+    ],
+    "levelName": "",
+    "chunkType": "generic",
+    "biome": "swamp",
+    "hasGenerated": true
+}

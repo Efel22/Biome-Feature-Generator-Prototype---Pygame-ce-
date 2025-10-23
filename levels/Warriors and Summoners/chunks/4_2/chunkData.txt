@@ -1,0 +1,10 @@
+{
+    "index": [
+        4,
+        2
+    ],
+    "levelName": "",
+    "chunkType": "generic",
+    "biome": "dead_forest",
+    "hasGenerated": true
+}

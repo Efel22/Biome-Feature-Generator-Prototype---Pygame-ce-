@@ -1,0 +1,10 @@
+{
+    "index": [
+        2,
+        0
+    ],
+    "levelName": "",
+    "chunkType": "generic",
+    "biome": "taiga",
+    "hasGenerated": true
+}
